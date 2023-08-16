@@ -1,4 +1,6 @@
 #Include 'Protheus.ch'
+#Include 'Protheus.ch'
+#Include 'Tbiconn.ch'
 #Include 'Tbiconn.ch'
 
 User Function AL02AGOST(cNome,cSobrenome,dDtBorn) 
